@@ -1,0 +1,21 @@
+TESTE DE SOFTWARE
+
+Teste de Componentes - ocorre quando todos os componentes são testados isoladamente;
+
+Teste de Montagem - componentes são testados em conjuntos;
+
+Teste de Produto - software é testado para confirmar os requisitos funcionais do projeto;
+
+Teste de Integridade do Sistema - ocorre quando o sistema é testado com outros sistemas para a observância dos requisitos de integração;
+
+Teste de Aceitação do Utilizador - testes e utilizadores finais para que atenda suas expectativas.
+
+
+DAO - DATA ACESS OBJECT ---> classe para consultar dados
+
+
+Padrão SOLID
+
+Teste de Desempenho ---> teste de hardware ex: para rodar no minimo RX 6600
+
+Teste de Estresse ---> maximo de pessoas possiveis acessando o site ao mesmo tempo

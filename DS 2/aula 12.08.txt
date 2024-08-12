@@ -1,0 +1,23 @@
+Pq usamos o teste de software
+
+DEFEITO:
+- queima
+- erro na programação
+- não carrega o S.O.
+- ligado, tela preta sem imagem
+
+
+CAUSA:
+- pico de energia
+- programador
+- ordem do boot
+- memória RAM
+
+
+
+
+BUG---> Anomalia, não controlavel
+
+ERRO---> Humano (dev ou usuário)
+
+FALHA---> O erro gera uma falha, uma sequência de erros

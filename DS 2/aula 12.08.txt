@@ -1,4 +1,4 @@
-Pq usamos o teste de software
+SSPq usamos o teste de software
 
 DEFEITO:
 - queima

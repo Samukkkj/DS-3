@@ -1,0 +1,116 @@
+    _id: ObjectId('66ce7b398fb48320282710bd'),
+    nome: 'Vitor',
+    idade: 21
+  },
+  {
+    _id: ObjectId('66ce7c108fb48320282710be'),
+    nome: 'Iara',
+    CPF: 121242042,
+    Fone: -999999985,
+    Email: 'iara.c.s@gmail.com',
+    Turma: '3ºDS'
+  },
+  {
+    _id: ObjectId('66ce7c758fb48320282710bf'),
+    nome: 'Pyethra',
+    CPF: 48121831890,
+    Fone: -99975465,
+    Email: 'pyethradelcolribeiro@gmail.com',
+    Turma: '3ºDS'
+  },
+  {
+    _id: ObjectId('66ce7cf28fb48320282710c0'),
+    nome: 'Samuel',
+    CPF: 49256293872,
+    Fone: -99988865,
+    Email: 'samuel@gmail.com',
+    Turma: '3ºDS'
+  },
+  {
+    _id: ObjectId('66ce7d338fb48320282710c1'),
+    nome: 'Bruno',
+    CPF: 4925600002,
+    Fone: -99988865,
+    Email: 'bruh@gmail.com',
+    Turma: '3ºDS'
+  },
+  {
+    _id: ObjectId('66ce7d6c8fb48320282710c2'),
+    nome: 'João',
+    CPF: 4925600002,
+    Fone: -999435365,
+    Email: 'jogao@gmail.com',
+    Turma: '3ºDS'
+  },
+  {
+    _id: ObjectId('66ce7d868fb48320282710c3'),
+    nome: 'Leo',
+    CPF: 3925600002,
+    Fone: -999435365,
+    Email: 'leo@gmail.com',
+    Turma: '3ºDS'
+  },
+  {
+    _id: ObjectId('66ce7daf8fb48320282710c4'),
+    nome: 'Edilmar',
+    CPF: 2925600002,
+    Fone: -999435365,
+    Email: 'edilmar@gmail.com',
+    Turma: '3ºDS'
+  },
+  {
+    _id: ObjectId('66ce7e838fb48320282710c5'),
+    nome: 'Canivete',
+    CPF: 492564502,
+    Fone: -999489365,
+    Email: 'canivete@gmail.com',
+    Turma: '3ºDS'
+  },
+  {
+    _id: ObjectId('66ce7ec08fb48320282710c6'),
+    nome: 'Getúlio',
+    CPF: 491264502,
+    Fone: -999414965,
+    Email: 'getulio@gmail.com',
+    Turma: '3ºDS'
+  },
+  {
+    _id: ObjectId('66ce7f1e8fb48320282710c7'),
+    nome: 'Ge',
+    CPF: 491290502,
+    Fone: -999418765,
+    Email: 'ge@gmail.com',
+    Turma: '3ºDS'
+  },
+  {
+    _id: ObjectId('66ce7f448fb48320282710c8'),
+    nome: 'Keron',
+    CPF: 491223502,
+    Fone: -991238765,
+    Email: 'keron@gmail.com',
+    Turma: '3ºDS'
+  },
+  {
+    _id: ObjectId('66ce7f628fb48320282710c9'),
+    nome: 'Julia',
+    CPF: 448123502,
+    Fone: -991233415,
+    Email: 'julia@gmail.com',
+    Turma: '3ºDS'
+  },
+  {
+    _id: ObjectId('66ce7f878fb48320282710ca'),
+    nome: 'Renan',
+    CPF: 443443502,
+    Fone: -9912334435,
+    Email: 'renan@gmail.com',
+    Turma: '3ºDS'
+  },
+  {
+    _id: ObjectId('66ce7fa18fb48320282710cb'),
+    nome: 'Roldão',
+    CPF: 443113502,
+    Fone: -9912331135,
+    Email: 'roldao@gmail.com',
+    Turma: '3ºDS'
+  }
